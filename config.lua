@@ -1,9 +1,9 @@
 Config = {
 	-- Get notified when a new version releases
-	versionCheck = true,
+	versionCheck = false,
 
 	-- Enable support for ox_target
-	ox_target = false,
+	ox_target = true,
 
 	/*
 	* Show or hide gas stations blips
